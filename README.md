@@ -73,7 +73,7 @@ and **Tailwind CSS**, and I'm comfortable reaching into the backend with **Pytho
 A modern web application built with a focus on clean UI and seamless user experience.
 
 <div align="center">
-  <img src="https://placehold.co/900x450/6C5CE7/FFFFFF/png?text=Quantum+%E2%80%94+add+screenshot" alt="Quantum screenshot" width="100%"/>
+  <img src="./assets/quantum.png" alt="Quantum screenshot" width="100%"/>
 </div>
 
 **Built with:** `TypeScript` · `React` · `Tailwind CSS`
@@ -85,7 +85,7 @@ A modern web application built with a focus on clean UI and seamless user experi
 An AI-powered assistant platform delivering intelligent, conversational experiences to users.
 
 <div align="center">
-  <img src="https://placehold.co/900x450/00B894/FFFFFF/png?text=Cicosy+AI+%E2%80%94+add+screenshot" alt="Cicosy AI Assistant screenshot" width="100%"/>
+  <img src="./assets/cicosy-ai.png" alt="Cicosy AI Assistant screenshot" width="100%"/>
 </div>
 
 **Built with:** `TypeScript` · `React` · `AI Integration`
@@ -109,7 +109,7 @@ A management system for a violin studio — handling students, lesson scheduling
 A web platform for collecting and managing crowdsourced data and contributions from a community of users. **[View repo →](https://github.com/Chipo-Sithole/crowdsourcing)**
 
 <div align="center">
-  <img src="https://placehold.co/900x450/0984E3/FFFFFF/png?text=Crowdsourcing+%E2%80%94+add+screenshot" alt="Crowdsourcing Platform screenshot" width="100%"/>
+  <img src="./assets/crowdsourcing.png" alt="Crowdsourcing Platform screenshot" width="100%"/>
 </div>
 
 **Built with:** `TypeScript` · `React`
@@ -121,7 +121,7 @@ A web platform for collecting and managing crowdsourced data and contributions f
 A sleek booking and management application for a lash & beauty studio, streamlining appointments and client management.
 
 <div align="center">
-  <img src="https://placehold.co/900x450/E84393/FFFFFF/png?text=Lash+Suite+Luxe+%E2%80%94+add+screenshot" alt="Lash Suite Luxe screenshot" width="100%"/>
+  <img src="./assets/lush-luxe.png" alt="Lash Suite Luxe screenshot" width="100%"/>
 </div>
 
 **Built with:** `TypeScript` · `React`
