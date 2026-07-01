@@ -59,45 +59,16 @@ and **Tailwind CSS**, and I'm comfortable reaching into the backend with **Pytho
 ## 🚀 Featured Projects
 
 <!--
-  📸 HOW TO ADD YOUR REAL SCREENSHOTS:
-  1. Take a screenshot of each app.
-  2. Upload the image files into the "assets" folder of this repo
-     (drag & drop via GitHub's web UI, or add them to /assets and commit).
-     Suggested names: quantum.png, cicosy-ai.png, violin-studio.png, crowdsourcing.png, lash-luxe.png
-  3. Replace each placeholder image URL below (the https://placehold.co/... link)
-     with the path to your image, e.g.  ./assets/quantum.png
+  📸 TO UPDATE A SCREENSHOT: upload the image into the "assets" folder of this repo,
+  then point the matching <img src="./assets/..."> below at your file.
 -->
 
-### 🌌 Quantum
+### 📊 CRM System
 
-A modern web application built with a focus on clean UI and seamless user experience.
-
-<div align="center">
-  <img src="./assets/quantum.png" alt="Quantum screenshot" width="100%"/>
-</div>
-
-**Built with:** `TypeScript` · `React` · `Tailwind CSS`
-
-<br/>
-
-### 🤖 Cicosy AI Assistant Platform
-
-An AI-powered assistant platform delivering intelligent, conversational experiences to users.
+A full-featured Customer Relationship Management system for managing leads, contacts, deals, and customer interactions — built to streamline sales and client operations for modern teams.
 
 <div align="center">
-  <img src="./assets/cicosy-ai.png" alt="Cicosy AI Assistant screenshot" width="100%"/>
-</div>
-
-**Built with:** `TypeScript` · `React` · `AI Integration`
-
-<br/>
-
-### 🎻 Ms Tino's Violin Studio Management System
-
-A management system for a violin studio — handling students, lesson scheduling, and studio operations in one place.
-
-<div align="center">
-  <img src="./assets/violin-studio.png" alt="Violin Studio Management System screenshot" width="100%"/>
+  <img src="./assets/crm.png" alt="CRM System screenshot" width="100%"/>
 </div>
 
 **Built with:** `TypeScript` · `React`
@@ -113,6 +84,42 @@ A web platform for collecting and managing crowdsourced data and contributions f
 </div>
 
 **Built with:** `TypeScript` · `React`
+
+<br/>
+
+### 🎻 Ms Tino's Violin Studio Management System
+
+A management system for a violin studio — handling students, lesson scheduling, and studio operations in one place.
+
+<div align="center">
+  <img src="./assets/violin-studio.png" alt="Violin Studio Management System screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React`
+
+<br/>
+
+### 🤖 Cicosy AI Assistant Platform
+
+An AI-powered assistant platform delivering intelligent, conversational experiences to users.
+
+<div align="center">
+  <img src="./assets/cicosy-ai.png" alt="Cicosy AI Assistant screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React` · `AI Integration`
+
+<br/>
+
+### 🌌 Quantum
+
+A modern web application built with a focus on clean UI and seamless user experience.
+
+<div align="center">
+  <img src="./assets/quantum.png" alt="Quantum screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React` · `Tailwind CSS`
 
 <br/>
 
