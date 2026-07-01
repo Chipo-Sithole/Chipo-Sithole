@@ -65,13 +65,13 @@ and **Tailwind CSS**, and I'm comfortable reaching into the backend with **Pytho
 
 ### 📊 CRM System
 
-A full-featured Customer Relationship Management system for managing leads, contacts, deals, and customer interactions — built to streamline sales and client operations for modern teams.
+A full-featured Customer Relationship Management system for managing leads, contacts, deals, and customer interactions — with an integrated **AI assistant** that surfaces insights, answers questions, and helps automate sales and client operations for modern teams.
 
 <div align="center">
   <img src="./assets/crm.png" alt="CRM System screenshot" width="100%"/>
 </div>
 
-**Built with:** `TypeScript` · `React`
+**Built with:** `TypeScript` · `React` · `AI Assistant`
 
 <br/>
 
