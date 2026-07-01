@@ -97,7 +97,7 @@ An AI-powered assistant platform delivering intelligent, conversational experien
 A management system for a violin studio — handling students, lesson scheduling, and studio operations in one place.
 
 <div align="center">
-  <img src="https://placehold.co/900x450/2D3436/FFFFFF/png?text=Violin+Studio+%E2%80%94+add+screenshot" alt="Violin Studio Management System screenshot" width="100%"/>
+  <img src="./assets/violin-studio.png" alt="Violin Studio Management System screenshot" width="100%"/>
 </div>
 
 **Built with:** `TypeScript` · `React`
