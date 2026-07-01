@@ -58,15 +58,73 @@ and **Tailwind CSS**, and I'm comfortable reaching into the backend with **Pytho
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[Crowdsourcing Platform](https://github.com/Chipo-Sithole/crowdsourcing)** | A web platform for collecting and managing crowdsourced data and contributions. | `TypeScript` `React` |
-| **[Last Studio](https://github.com/Chipo-Sithole/last-studio)** | A modern studio management web application. | `TypeScript` `React` |
-| **[Personal Portfolio](https://github.com/Chipo-Sithole/personal-portfolio)** | My personal portfolio showcasing projects and skills. | `TypeScript` `React` |
-| **[Cicosy Crowd](https://github.com/Chipo-Sithole/cicosy-crowd)** | Crowdsourcing initiative under the Cicosy platform. | `TypeScript` |
+<!--
+  📸 HOW TO ADD YOUR REAL SCREENSHOTS:
+  1. Take a screenshot of each app.
+  2. Upload the image files into the "assets" folder of this repo
+     (drag & drop via GitHub's web UI, or add them to /assets and commit).
+     Suggested names: quantum.png, cicosy-ai.png, violin-studio.png, crowdsourcing.png, lash-luxe.png
+  3. Replace each placeholder image URL below (the https://placehold.co/... link)
+     with the path to your image, e.g.  ./assets/quantum.png
+-->
 
-> 💼 I'm also building several private products including an **AI Assistant Platform**, a **Data Generation Platform**,
-> a **Violin Studio Management System**, and a **Micro-Finance** application — happy to walk through them on request.
+### 🌌 Quantum
+
+A modern web application built with a focus on clean UI and seamless user experience.
+
+<div align="center">
+  <img src="https://placehold.co/900x450/6C5CE7/FFFFFF/png?text=Quantum+%E2%80%94+add+screenshot" alt="Quantum screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React` · `Tailwind CSS`
+
+<br/>
+
+### 🤖 Cicosy AI Assistant Platform
+
+An AI-powered assistant platform delivering intelligent, conversational experiences to users.
+
+<div align="center">
+  <img src="https://placehold.co/900x450/00B894/FFFFFF/png?text=Cicosy+AI+%E2%80%94+add+screenshot" alt="Cicosy AI Assistant screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React` · `AI Integration`
+
+<br/>
+
+### 🎻 Ms Tino's Violin Studio Management System
+
+A management system for a violin studio — handling students, lesson scheduling, and studio operations in one place.
+
+<div align="center">
+  <img src="https://placehold.co/900x450/2D3436/FFFFFF/png?text=Violin+Studio+%E2%80%94+add+screenshot" alt="Violin Studio Management System screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React`
+
+<br/>
+
+### 🌍 Crowdsourcing Platform
+
+A web platform for collecting and managing crowdsourced data and contributions from a community of users. **[View repo →](https://github.com/Chipo-Sithole/crowdsourcing)**
+
+<div align="center">
+  <img src="https://placehold.co/900x450/0984E3/FFFFFF/png?text=Crowdsourcing+%E2%80%94+add+screenshot" alt="Crowdsourcing Platform screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React`
+
+<br/>
+
+### 💅 Lash Suite Luxe
+
+A sleek booking and management application for a lash & beauty studio, streamlining appointments and client management.
+
+<div align="center">
+  <img src="https://placehold.co/900x450/E84393/FFFFFF/png?text=Lash+Suite+Luxe+%E2%80%94+add+screenshot" alt="Lash Suite Luxe screenshot" width="100%"/>
+</div>
+
+**Built with:** `TypeScript` · `React`
 
 ---
 
