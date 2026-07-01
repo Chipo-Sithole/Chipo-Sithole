@@ -56,19 +56,6 @@ and **Tailwind CSS**, and I'm comfortable reaching into the backend with **Pytho
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chipo-Sithole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chipo-Sithole&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chipo-Sithole&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
