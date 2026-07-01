@@ -77,13 +77,13 @@ A full-featured Customer Relationship Management system for managing leads, cont
 
 ### 🌍 Crowdsourcing Platform
 
-A full-stack crowdsourcing marketplace that connects **requesters** (clients who post work) with **annotators** (workers who complete tasks). It features blockchain-powered escrow payments, AI-driven task matching, and real-time collaboration — built on a polyglot microservices architecture delivered across 10 development phases. **[View repo →](https://github.com/Chipo-Sithole/crowdsourcing)**
+A crowdsourcing marketplace that connects **requesters** (clients who post work) with **annotators** (workers who complete tasks). I designed and built the frontend — clean, responsive dashboards for both requesters and annotators, an intuitive task workflow, and real-time collaboration UI that makes complex operations feel effortless. **[View repo →](https://github.com/Chipo-Sithole/crowdsourcing)**
 
 <div align="center">
   <img src="./assets/crowdsourcing.png" alt="Crowdsourcing Platform screenshot" width="100%"/>
 </div>
 
-**Built with:** `Microservices` · `Blockchain Escrow` · `AI Matching` · `Real-Time Collaboration`
+**Built with:** `TypeScript` · `React` · `Tailwind CSS` · `Responsive UI`
 
 <br/>
 
