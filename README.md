@@ -20,7 +20,7 @@ I'm a **Frontend Developer** based in **Harare, Zimbabwe**, passionate about tur
 responsive, and accessible web experiences. I build modern interfaces with **React**, **TypeScript**,
 and **Tailwind CSS**, and I'm comfortable reaching into the backend with **Python** when a project needs it.
 
-- 🔭 Currently building web platforms at **ACS Foundation**
+- 🔭 Currently building responsive, real-world web applications from concept to deployment
 - 🌱 Always leveling up — deepening my skills in modern React patterns, UI/UX, and full-stack development
 - 💡 I love working on real-world products: management systems, AI-powered platforms, and crowdsourcing tools
 - 🌍 Portfolio → **[chipo-sithole.vercel.app](https://chipo-sithole.vercel.app/)**
